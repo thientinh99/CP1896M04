@@ -9,6 +9,11 @@ body {
     margin: 0;
 }
 
+header .row .col-sm-12 {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
 .navbar {
     background-color: rgba(82, 64, 120, 0.9) !important;
     width: 100%;
@@ -69,10 +74,10 @@ p {
 }
 
 
-/* .row img {
+/* /* .row img {
     border: solid red 2px;
-}
+} */
 
 .row {
     border: solid blue 2px;
-} */
+}
